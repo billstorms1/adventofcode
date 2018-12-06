@@ -1,0 +1,7 @@
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUp\bin\Debug\AddEmUp.exe.config
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUp\bin\Debug\AddEmUp.exe
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUp\bin\Debug\AddEmUp.pdb
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUp\obj\Debug\AddEmUp.csprojAssemblyReference.cache
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUp\obj\Debug\AddEmUp.csproj.CoreCompileInputs.cache
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUp\obj\Debug\AddEmUp.exe
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUp\obj\Debug\AddEmUp.pdb
