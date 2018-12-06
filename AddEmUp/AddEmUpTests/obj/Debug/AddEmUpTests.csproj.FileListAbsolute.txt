@@ -1,0 +1,17 @@
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\bin\Debug\AddEmUpTests.dll
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\bin\Debug\AddEmUpTests.pdb
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\bin\Debug\AddEmUp.exe
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\bin\Debug\AddEmUp.pdb
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\bin\Debug\AddEmUp.exe.config
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\obj\Debug\AddEmUpTests.csprojAssemblyReference.cache
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\obj\Debug\AddEmUpTests.csproj.CoreCompileInputs.cache
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\obj\Debug\AddEmUpTests.csproj.CopyComplete
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\obj\Debug\AddEmUpTests.dll
+C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUpTests\obj\Debug\AddEmUpTests.pdb
