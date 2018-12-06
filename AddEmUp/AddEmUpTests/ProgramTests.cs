@@ -13,15 +13,26 @@ namespace AddEmUp.Tests
     public class ProgramTests
     {
         //Arrange
-        public List<int> Changes = new List<int>() { +4, -3, +9 };
+        public List<int> Changes = new List<int>() { +3, -4, +9, -8, +1 };
                
         [TestMethod()]
-        public void CalculateTest()
+        public void CalculateTest_HappyPath()
         {
             //Act
             var calculate =  Program.Calculate(Changes);
             //Assert
-            Assert.AreEqual(calculate,10);
+            Assert.AreEqual(calculate,1);
+            Assert.AreNotEqual(calculate, 5);
+        }
+
+        [TestMethod()]
+        public void FindFirstDupeTest_HappyPath()
+        {
+            //Act
+            var calculate = Program.FindFirstDuplicateFrequency(Changes);
+            //Assert
+            Assert.AreEqual(calculate, 0);
+            Assert.AreNotEqual(calculate, 2);
         }
     }
 }
