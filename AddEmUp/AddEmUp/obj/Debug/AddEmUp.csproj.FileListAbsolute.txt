@@ -5,3 +5,10 @@ C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUp\obj\Debug
 C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUp\obj\Debug\AddEmUp.csproj.CoreCompileInputs.cache
 C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUp\obj\Debug\AddEmUp.exe
 C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\AddEmUp\obj\Debug\AddEmUp.pdb
+C:\git\adventofcode\AddEmUp\AddEmUp\bin\Debug\AddEmUp.exe.config
+C:\git\adventofcode\AddEmUp\AddEmUp\bin\Debug\AddEmUp.exe
+C:\git\adventofcode\AddEmUp\AddEmUp\bin\Debug\AddEmUp.pdb
+C:\git\adventofcode\AddEmUp\AddEmUp\obj\Debug\AddEmUp.csprojAssemblyReference.cache
+C:\git\adventofcode\AddEmUp\AddEmUp\obj\Debug\AddEmUp.csproj.CoreCompileInputs.cache
+C:\git\adventofcode\AddEmUp\AddEmUp\obj\Debug\AddEmUp.exe
+C:\git\adventofcode\AddEmUp\AddEmUp\obj\Debug\AddEmUp.pdb

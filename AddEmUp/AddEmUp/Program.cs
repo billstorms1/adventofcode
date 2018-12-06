@@ -10,8 +10,35 @@ namespace AddEmUp
         {
             var changes = GetValues();
             var result = Calculate(changes);
-            Console.WriteLine("The total is {0}.", result);
+            Console.WriteLine("The final frequency value (sum of changes) is {0}.", result);
+            var firstDupe = FindFirstDuplicateFrequency(changes);
+            Console.WriteLine();
+            Console.WriteLine("The first frequency to be duplicated is {0}", firstDupe);
             Console.ReadLine();
+        }
+
+        public static int FindFirstDuplicateFrequency(List<int> changes)
+        {
+            var done = false;
+            var firstDupe = 0;
+            var currentFreq = 0;
+            var freqs = new List<int>();
+
+            while (!done)
+                foreach (var change in changes)
+                {
+                    currentFreq += change;
+                    if (freqs.Contains(currentFreq))
+                    {
+                        firstDupe = currentFreq;
+                        done = true;
+                        break;
+                    }
+
+                    freqs.Add(currentFreq);
+                }
+
+            return firstDupe;
         }
 
         public static int Calculate(List<int> changes)
@@ -26,8 +53,8 @@ namespace AddEmUp
         {
             string line;
             var changes = new List<int>();
-            var file = new StreamReader(@"C:\Users\bstorms\Documents\Visual Studio 2017\Projects\AddEmUp\FrequencyChangeData.txt");
-            
+            var file = new StreamReader(@"C:\git\adventofcode\AddEmUp\FrequencyChangeData.txt");
+
             while ((line = file.ReadLine()) != null)
                 changes.Add(int.Parse(line));
 
