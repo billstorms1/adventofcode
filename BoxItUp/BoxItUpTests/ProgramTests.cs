@@ -1,26 +1,33 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using System.Collections.Generic;
 using BoxItUp;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace BoxItUp.Tests
+namespace BoxItUpTests
 {
     [TestClass()]
     public class ProgramTests
     {
-        public List<string> testData = new List<string>(){"abcdefg","abcdefgga","abccdddeeffggg"};
+        public List<string> TestData = new List<string>(){"abcdefg","abcdefn", "abcdefgga","abccdddeeffggg"};
 
         [TestMethod()]
         public void GetCheckSum_GoodData()
         {
             //Act
-            var result = Program.GetCheckSum(testData);
+            var result = Program.GetCheckSum(TestData);
 
             //Assert
             Assert.AreEqual(result,2);
         }
+
+        [TestMethod()]
+        public void GetCommonCharaters_GoodData()
+        {
+            //Act
+            var result = Program.GetCommonCharacters(TestData);
+
+            //Assert
+            Assert.AreEqual(result,"abcdef");
+        }
     }
+
 }

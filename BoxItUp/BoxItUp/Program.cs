@@ -12,7 +12,32 @@ namespace BoxItUp
             var codes = GetCodes();
             var checkSum = GetCheckSum(codes);
             Console.WriteLine(@"The checksum is {0}", checkSum);
+            var commonLetter = GetCommonCharacters(codes);
+            Console.WriteLine(@"The shared letters of the correct box pair are {0}", commonLetter);
             Console.ReadKey();
+        }
+
+        public static string GetCommonCharacters(List<string> codes)
+        {
+            foreach (var code in codes)
+            {
+                foreach (var innerCode in codes)
+                {
+                    var difChars = 0;
+                    var theIndex = 0;
+
+                    for (var l = 0; l < code.Length; l++)
+                    {
+                        if (code[l] == innerCode[l]) continue;
+                        difChars += 1;
+                        theIndex = l;
+                    }
+
+                    if (difChars == 1)
+                    return code.Remove(theIndex, 1);
+                }
+            }
+            return "Unable to find correct boxes.";
         }
 
         public static List<string> GetCodes()
@@ -27,7 +52,6 @@ namespace BoxItUp
             }
 
             return codes;
-
         }
 
         public static int GetCheckSum(List<string> codes)
