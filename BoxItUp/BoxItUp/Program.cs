@@ -13,7 +13,7 @@ namespace BoxItUp
             var checkSum = GetCheckSum(codes);
             Console.WriteLine(@"The checksum is {0}", checkSum);
             var commonLetter = GetCommonCharacters(codes);
-            Console.WriteLine(@"The shared letters are of the correct box pair are {0}", commonLetter);
+            Console.WriteLine(@"The shared letters of the correct box pair are {0}", commonLetter);
             Console.ReadKey();
         }
 
