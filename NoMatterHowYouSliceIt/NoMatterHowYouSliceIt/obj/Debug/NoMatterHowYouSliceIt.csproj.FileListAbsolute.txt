@@ -1,0 +1,7 @@
+C:\git\adventofcode\NoMatterHowYouSliceIt\NoMatterHowYouSliceIt\bin\Debug\NoMatterHowYouSliceIt.exe.config
+C:\git\adventofcode\NoMatterHowYouSliceIt\NoMatterHowYouSliceIt\bin\Debug\NoMatterHowYouSliceIt.exe
+C:\git\adventofcode\NoMatterHowYouSliceIt\NoMatterHowYouSliceIt\bin\Debug\NoMatterHowYouSliceIt.pdb
+C:\git\adventofcode\NoMatterHowYouSliceIt\NoMatterHowYouSliceIt\obj\Debug\NoMatterHowYouSliceIt.csprojAssemblyReference.cache
+C:\git\adventofcode\NoMatterHowYouSliceIt\NoMatterHowYouSliceIt\obj\Debug\NoMatterHowYouSliceIt.csproj.CoreCompileInputs.cache
+C:\git\adventofcode\NoMatterHowYouSliceIt\NoMatterHowYouSliceIt\obj\Debug\NoMatterHowYouSliceIt.exe
+C:\git\adventofcode\NoMatterHowYouSliceIt\NoMatterHowYouSliceIt\obj\Debug\NoMatterHowYouSliceIt.pdb

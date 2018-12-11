@@ -1,0 +1,17 @@
+C:\git\adventofcode\BoxItUp\BoxItUpTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\adventofcode\BoxItUp\BoxItUpTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\adventofcode\BoxItUp\BoxItUpTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\adventofcode\BoxItUp\BoxItUpTests\bin\Debug\BoxItUpTests.dll
+C:\git\adventofcode\BoxItUp\BoxItUpTests\bin\Debug\BoxItUpTests.pdb
+C:\git\adventofcode\BoxItUp\BoxItUpTests\bin\Debug\BoxItUp.exe
+C:\git\adventofcode\BoxItUp\BoxItUpTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\git\adventofcode\BoxItUp\BoxItUpTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\git\adventofcode\BoxItUp\BoxItUpTests\bin\Debug\BoxItUp.pdb
+C:\git\adventofcode\BoxItUp\BoxItUpTests\bin\Debug\BoxItUp.exe.config
+C:\git\adventofcode\BoxItUp\BoxItUpTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\git\adventofcode\BoxItUp\BoxItUpTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\git\adventofcode\BoxItUp\BoxItUpTests\obj\Debug\BoxItUpTests.csprojAssemblyReference.cache
+C:\git\adventofcode\BoxItUp\BoxItUpTests\obj\Debug\BoxItUpTests.csproj.CoreCompileInputs.cache
+C:\git\adventofcode\BoxItUp\BoxItUpTests\obj\Debug\BoxItUpTests.csproj.CopyComplete
+C:\git\adventofcode\BoxItUp\BoxItUpTests\obj\Debug\BoxItUpTests.dll
+C:\git\adventofcode\BoxItUp\BoxItUpTests\obj\Debug\BoxItUpTests.pdb

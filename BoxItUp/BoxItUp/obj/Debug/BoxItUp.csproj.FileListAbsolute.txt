@@ -1,0 +1,7 @@
+C:\git\adventofcode\BoxItUp\BoxItUp\bin\Debug\BoxItUp.exe.config
+C:\git\adventofcode\BoxItUp\BoxItUp\bin\Debug\BoxItUp.exe
+C:\git\adventofcode\BoxItUp\BoxItUp\bin\Debug\BoxItUp.pdb
+C:\git\adventofcode\BoxItUp\BoxItUp\obj\Debug\BoxItUp.csprojAssemblyReference.cache
+C:\git\adventofcode\BoxItUp\BoxItUp\obj\Debug\BoxItUp.csproj.CoreCompileInputs.cache
+C:\git\adventofcode\BoxItUp\BoxItUp\obj\Debug\BoxItUp.exe
+C:\git\adventofcode\BoxItUp\BoxItUp\obj\Debug\BoxItUp.pdb
